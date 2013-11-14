@@ -15,7 +15,7 @@ Or simply:
 
     include upstart
 
-Creating a job and enabline the service
+Creating a job and enabling the service
 ---------------------------------------
 
     upstart::job { 'test_service':
